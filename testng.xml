@@ -1,0 +1,7 @@
+<suite name="OmegapointAcademy">
+    <test name="OmegapointAcademyAutoTests">
+        <classes>
+            <class name="com.academy.omegapoint.HomePageTests" />
+        </classes>
+    </test>
+</suite>
