@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f751c43-7c90-4f66-a5c9-03bea190d9df" name="Default" comment="" />
+    <list default="true" id="2f751c43-7c90-4f66-a5c9-03bea190d9df" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/project-template.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Omegapoint Automation.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Omegapoint Automation/com/academy/omegapoint/AcademyElementLocators.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Omegapoint Automation/com/academy/omegapoint/HomePageTests.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Omegapoint Automation/com/academy/omegapoint/HomePageTests2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Omegapoint Automation/com/academy/omegapoint/InvokingAcademy.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Omegapoint Automation/com/academy/omegapoint/NegativeTests.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/academy/omegapoint/AcademyElementLocators.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/academy/omegapoint/HomePageTests.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/academy/omegapoint/HomePageTests2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/academy/omegapoint/InvokingAcademy.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/academy/omegapoint/NegativeTests.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/testng.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
